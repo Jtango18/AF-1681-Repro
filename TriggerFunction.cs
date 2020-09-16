@@ -1,7 +1,6 @@
 using System;
-using Functions_V3_sample;
+using NoFWord ;
 using Microsoft.Azure.WebJobs;
-using Microsoft.Azure.WebJobs.Host;
 using Microsoft.Extensions.Logging;
 
 namespace Company.Function

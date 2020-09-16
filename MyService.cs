@@ -1,10 +1,8 @@
 ﻿using Microsoft.ApplicationInsights;
 using Microsoft.Extensions.Logging;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Functions_V3_sample
+namespace NoFWord
 {
     public class MyService
     {
